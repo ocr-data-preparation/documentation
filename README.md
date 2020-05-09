@@ -6,9 +6,8 @@ OCR Data Preparation is a set of applications to generate training data to creat
 
 ## Setup
 
-- Clone this repository.
-- Run service in /service folder with step as specified in service documentation (/service/README.md).
-- Run web application in /application folder with step as specified in application documentation (/application/README.md) or simply try the released version in https://ocr-data-preparation.web.app/.
+- Clone and run service from https://github.com/ocr-data-preparation/service with step as specified in service documentation.
+- Clone and run web application from https://github.com/ocr-data-preparation/service with step as specified in application documentation or simply try the released version in https://ocr-data-preparation.web.app/.
 
 # Credits
 

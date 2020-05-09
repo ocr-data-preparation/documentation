@@ -15,7 +15,7 @@ OCR Data Preparation is a set of applications to generate training data to creat
 ## Developer
 
 - Ariel Ansa Razumardi (https://github.com/arspy77)
-- Ihsan Imaddudin Azhar ()
+- Ihsan Imaddudin Azhar (https://github.com/rahzainashi)
 - Ahmad Rizqee Nurhani (https://github.com/rizqee)
 - Elvina (https://github.com/ryukago)
 - Rakhmad Budiono (https://github.com/rakhmadbudiono)
